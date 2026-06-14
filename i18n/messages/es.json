@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "products": "Productos",
+    "solutions": "Soluciones",
+    "applications": "Aplicaciones",
+    "projects": "Proyectos",
+    "about": "Sobre ALEO",
+    "blog": "Blog",
+    "resources": "Recursos",
+    "contact": "Contacto",
+    "catalog": "Catálogo",
+    "quote": "Solicitar Cotización"
+  },
+  "topbar1": "Fabricante directo desde 2006",
+  "topbar2": "Soluciones OEM/ODM de generadores para Medio Oriente, África y Sudamérica",
+  "pages": {
+    "index.html": {
+      "title": "ALEO POWER | Grupos Electrógenos Industriales a Gas y Diésel",
+      "meta": "ALEO POWER ofrece soluciones OEM/ODM de grupos electrógenos a gas y diésel para compradores B2B internacionales.",
+      "h1": "Grupos Electrógenos Industriales a Gas y Diésel Para Energía Confiable"
+    },
+    "products/index.html": {
+      "title": "Productos de Grupos Electrógenos | ALEO POWER",
+      "meta": "Explore grupos electrógenos a gas, diésel y soluciones OEM/ODM de ALEO POWER.",
+      "h1": "Grupos Electrógenos a Gas y Diésel Para Compradores B2B"
+    },
+    "products/700kw-gas-generator-set/index.html": {
+      "title": "Grupo Electrógeno a Gas 700kW | ALEO POWER",
+      "meta": "Grupo electrógeno a gas de 700kW para respaldo industrial, fábricas y proyectos EPC.",
+      "h1": "Grupo Electrógeno a Gas 700kW"
+    },
+    "products/1000kw-gas-generator-set/index.html": {
+      "title": "Grupo Electrógeno a Gas 1000kW | ALEO POWER",
+      "meta": "Grupo electrógeno a gas de 1000kW para EPC, instalaciones industriales y respaldo de gran capacidad.",
+      "h1": "Grupo Electrógeno a Gas 1000kW Para EPC y Energía Industrial"
+    },
+    "applications/index.html": {
+      "title": "Aplicaciones de Grupos Electrógenos | ALEO POWER",
+      "meta": "Aplicaciones para construcción, petróleo y gas, minería, fábricas y proyectos EPC.",
+      "h1": "Aplicaciones de Grupos Electrógenos Para Demanda Real de Proyectos"
+    },
+    "about/index.html": {
+      "title": "Sobre ALEO POWER | Fabricante de Grupos Electrógenos",
+      "meta": "ALEO POWER, fundada en 2006, es fabricante directo y proveedor OEM/ODM.",
+      "h1": "Un Fabricante Directo Construido Para Proyectos de Energía"
+    },
+    "factory/index.html": {
+      "title": "Capacidad de Fábrica | ALEO POWER",
+      "meta": "Producción, control de calidad, embalaje y pruebas de entrega de ALEO POWER.",
+      "h1": "Capacidad de Fábrica y Pruebas de Calidad"
+    },
+    "projects/index.html": {
+      "title": "Proyectos de Grupos Electrógenos | ALEO POWER",
+      "meta": "Ejemplos de proyectos por país, industria y tipo de producto.",
+      "h1": "Referencias de Proyecto Sin Afirmaciones No Verificadas"
+    },
+    "blog/index.html": {
+      "title": "Guías de Compra de Generadores | Blog ALEO POWER",
+      "meta": "Guías SEO para compradores industriales de grupos electrógenos a gas y diésel.",
+      "h1": "Guías de Compra de Generadores Para Compradores Internacionales"
+    },
+    "contact/index.html": {
+      "title": "Contacto ALEO POWER | Formulario RFQ B2B",
+      "meta": "Envíe una consulta B2B para grupos electrógenos y soluciones OEM/ODM.",
+      "h1": "Formulario de Consulta B2B Para Generadores"
+    }
+  }
+}

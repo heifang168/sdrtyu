@@ -1,0 +1,37 @@
+{
+  "projectName": "ALEO POWER Generator Keyword Research",
+  "site": "https://www.heifun6.asia",
+  "seedKeywords": [
+    "gas generator set",
+    "700kW gas generator",
+    "1000kW gas generator",
+    "diesel generator set",
+    "generator set manufacturer"
+  ],
+  "markets": [
+    "UAE",
+    "Saudi Arabia",
+    "Nigeria",
+    "South Africa",
+    "Middle East",
+    "Africa"
+  ],
+  "language": "en",
+  "googleAds": {
+    "apiVersion": "v24",
+    "customerId": "",
+    "languageResource": "languageConstants/1000",
+    "geoTargetConstants": [
+      "geoTargetConstants/2840"
+    ]
+  },
+  "serp": {
+    "provider": "serper",
+    "gl": "us",
+    "hl": "en",
+    "num": 10,
+    "fetchCompetitorPages": true
+  },
+  "competitorUrls": [],
+  "outputDir": "outputs/keyword-research"
+}

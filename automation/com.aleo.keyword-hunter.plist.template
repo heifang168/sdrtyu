@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.aleo.keyword-hunter</string>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/heifang/Documents/Codex/2026-05-28/files-mentioned-by-the-user-aleo</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/env</string>
+    <string>node</string>
+    <string>scripts/daily-keyword-desktop-workflow.mjs</string>
+    <string>--config</string>
+    <string>scripts/desktop-keyword-system.config.example.json</string>
+  </array>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>8</integer>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+
+  <key>StandardOutPath</key>
+  <string>/Users/heifang/Documents/Codex/2026-05-28/files-mentioned-by-the-user-aleo/outputs/keyword-desktop/launchd.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/Users/heifang/Documents/Codex/2026-05-28/files-mentioned-by-the-user-aleo/outputs/keyword-desktop/launchd-error.log</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+  </dict>
+</dict>
+</plist>

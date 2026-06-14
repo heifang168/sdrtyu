@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "products": "Products",
+    "solutions": "Solutions",
+    "applications": "Applications",
+    "projects": "Projects",
+    "about": "About ALEO",
+    "blog": "Blog",
+    "resources": "Resources",
+    "contact": "Contact",
+    "catalog": "Catalog",
+    "quote": "Get a Quote"
+  },
+  "topbar1": "Source manufacturer since 2006",
+  "topbar2": "OEM/ODM generator solutions for Middle East, Africa and South America",
+  "pages": {
+    "index.html": {
+      "title": "ALEO POWER | Industrial Gas & Diesel Generator Sets",
+      "meta": "ALEO POWER provides OEM/ODM gas and diesel generator set solutions for overseas B2B buyers.",
+      "h1": "Industrial Gas & Diesel Generator Sets Built for Reliable Power"
+    },
+    "products/index.html": {
+      "title": "Generator Set Products | ALEO POWER",
+      "meta": "Explore ALEO POWER gas generator sets, diesel generator sets, and OEM/ODM generator solutions.",
+      "h1": "Gas and Diesel Generator Sets for Overseas B2B Buyers"
+    },
+    "products/700kw-gas-generator-set/index.html": {
+      "title": "700kW Gas Generator Set | ALEO POWER",
+      "meta": "700kW gas generator set for industrial backup power, factory power and EPC projects.",
+      "h1": "700kW Gas Generator Set"
+    },
+    "products/1000kw-gas-generator-set/index.html": {
+      "title": "1000kW Gas Generator Set | ALEO POWER",
+      "meta": "1000kW gas generator set for EPC companies, industrial facilities and large backup power projects.",
+      "h1": "1000kW Gas Generator Set for EPC and Industrial Power"
+    },
+    "applications/index.html": {
+      "title": "Generator Set Applications | ALEO POWER",
+      "meta": "Generator set applications for construction, oil and gas, mining, factories and EPC projects.",
+      "h1": "Generator Set Applications for Real Project Demand"
+    },
+    "about/index.html": {
+      "title": "About ALEO POWER | Generator Set Manufacturer",
+      "meta": "ALEO POWER, founded in 2006, is a source manufacturer and OEM/ODM solution provider.",
+      "h1": "A Source Manufacturer Built for Power Projects"
+    },
+    "factory/index.html": {
+      "title": "Factory Strength | ALEO POWER",
+      "meta": "ALEO POWER factory strength page for production, quality control, packaging and delivery proof.",
+      "h1": "Factory Capability and Quality Proof"
+    },
+    "projects/index.html": {
+      "title": "Generator Set Projects | ALEO POWER",
+      "meta": "ALEO POWER project examples for generator set applications by country, industry and product type.",
+      "h1": "Project References Without Unverified Customer Claims"
+    },
+    "blog/index.html": {
+      "title": "Generator Buying Guides | ALEO POWER Blog",
+      "meta": "SEO buying guides for industrial gas and diesel generator set buyers.",
+      "h1": "Generator Buying Guides For Overseas Buyers"
+    },
+    "contact/index.html": {
+      "title": "Contact ALEO POWER | B2B Generator RFQ Form",
+      "meta": "Submit a B2B inquiry to ALEO POWER for gas generator sets, diesel generator sets and OEM/ODM solutions.",
+      "h1": "B2B Generator Inquiry Form"
+    }
+  }
+}

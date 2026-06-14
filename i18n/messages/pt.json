@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "products": "Produtos",
+    "solutions": "Soluções",
+    "applications": "Aplicações",
+    "projects": "Projetos",
+    "about": "Sobre ALEO",
+    "blog": "Blog",
+    "resources": "Recursos",
+    "contact": "Contato",
+    "catalog": "Catálogo",
+    "quote": "Solicitar Cotação"
+  },
+  "topbar1": "Fabricante direto desde 2006",
+  "topbar2": "Soluções OEM/ODM de geradores para Oriente Médio, África e América do Sul",
+  "pages": {
+    "index.html": {
+      "title": "ALEO POWER | Grupos Geradores Industriais a Gás e Diesel",
+      "meta": "ALEO POWER fornece soluções OEM/ODM de grupos geradores a gás e diesel para compradores B2B.",
+      "h1": "Grupos Geradores Industriais a Gás e Diesel Para Energia Confiável"
+    },
+    "products/index.html": {
+      "title": "Produtos de Grupos Geradores | ALEO POWER",
+      "meta": "Explore grupos geradores a gás, diesel e soluções OEM/ODM da ALEO POWER.",
+      "h1": "Grupos Geradores a Gás e Diesel Para Compradores B2B"
+    },
+    "products/700kw-gas-generator-set/index.html": {
+      "title": "Grupo Gerador a Gás 700kW | ALEO POWER",
+      "meta": "Grupo gerador a gás 700kW para backup industrial, fábricas e projetos EPC.",
+      "h1": "Grupo Gerador a Gás 700kW"
+    },
+    "products/1000kw-gas-generator-set/index.html": {
+      "title": "Grupo Gerador a Gás 1000kW | ALEO POWER",
+      "meta": "Grupo gerador a gás 1000kW para EPC, instalações industriais e grandes projetos.",
+      "h1": "Grupo Gerador a Gás 1000kW Para EPC e Energia Industrial"
+    },
+    "applications/index.html": {
+      "title": "Aplicações de Grupos Geradores | ALEO POWER",
+      "meta": "Aplicações para construção, óleo e gás, mineração, fábricas e projetos EPC.",
+      "h1": "Aplicações de Grupos Geradores Para Demanda Real de Projetos"
+    },
+    "about/index.html": {
+      "title": "Sobre ALEO POWER | Fabricante de Grupos Geradores",
+      "meta": "ALEO POWER, fundada em 2006, é fabricante direto e fornecedor OEM/ODM.",
+      "h1": "Um Fabricante Direto Construído Para Projetos de Energia"
+    },
+    "factory/index.html": {
+      "title": "Capacidade da Fábrica | ALEO POWER",
+      "meta": "Produção, controle de qualidade, embalagem e entrega da ALEO POWER.",
+      "h1": "Capacidade da Fábrica e Controle de Qualidade"
+    },
+    "projects/index.html": {
+      "title": "Projetos de Grupos Geradores | ALEO POWER",
+      "meta": "Exemplos de projetos por país, setor e tipo de produto.",
+      "h1": "Referências de Projeto Sem Alegações Não Verificadas"
+    },
+    "blog/index.html": {
+      "title": "Guias de Compra de Geradores | Blog ALEO POWER",
+      "meta": "Guias SEO para compradores industriais de grupos geradores a gás e diesel.",
+      "h1": "Guias de Compra de Geradores Para Compradores Internacionais"
+    },
+    "contact/index.html": {
+      "title": "Contato ALEO POWER | Formulário RFQ B2B",
+      "meta": "Envie uma consulta B2B para grupos geradores e soluções OEM/ODM.",
+      "h1": "Formulário de Consulta B2B Para Geradores"
+    }
+  }
+}

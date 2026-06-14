@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ALEO 关键词猎手</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">K</div>
+          <div>
+            <strong>关键词猎手</strong>
+            <span>ALEO POWER</span>
+          </div>
+        </div>
+        <nav>
+          <a class="active">仪表盘</a>
+          <a>关键词库</a>
+          <a>内容趋势</a>
+          <a>任务管理</a>
+          <a>数据源</a>
+          <a>设置</a>
+        </nav>
+      </aside>
+
+      <main>
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">本地桌面自动化</p>
+            <h1>每日关键词与内容趋势采集系统</h1>
+          </div>
+          <div class="topbar-actions">
+            <span id="lastUpdated">等待数据</span>
+            <button id="refreshBtn" type="button">刷新</button>
+            <button id="runBtn" type="button">立即运行</button>
+          </div>
+        </header>
+
+        <section class="cards">
+          <article class="metric-card">
+            <span>今日新增关键词</span>
+            <strong id="newCount">0</strong>
+            <small id="newHint">与上一次运行对比</small>
+          </article>
+          <article class="metric-card">
+            <span>总关键词数</span>
+            <strong id="totalCount">0</strong>
+            <small>已去重关键词库</small>
+          </article>
+          <article class="metric-card">
+            <span>B2B 关键词</span>
+            <strong id="b2bCount">0</strong>
+            <small>偏采购和询盘意图</small>
+          </article>
+          <article class="metric-card">
+            <span>行业新闻信号</span>
+            <strong id="newsCount">0</strong>
+            <small>RSS 趋势内容</small>
+          </article>
+        </section>
+
+        <section class="grid">
+          <article class="panel">
+            <div class="panel-head">
+              <h2>关键词来源分布</h2>
+              <span>SERP / 规划师 / ATP / 新闻 / AI</span>
+            </div>
+            <div id="sourceBars" class="bars"></div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <h2>搜索意图分布</h2>
+              <span>用于规划产品页、博客和广告</span>
+            </div>
+            <div id="categoryBars" class="bars"></div>
+          </article>
+        </section>
+
+        <section class="panel">
+          <div class="panel-head">
+            <h2>新增高价值关键词</h2>
+            <span>优先用于 SEO 页面、博客和广告</span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>关键词</th>
+                  <th>来源</th>
+                  <th>类型</th>
+                  <th>人群</th>
+                  <th>搜索量</th>
+                  <th>评分</th>
+                </tr>
+              </thead>
+              <tbody id="keywordRows"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-head">
+            <h2>行业新闻趋势</h2>
+            <span>可转化为内容选题</span>
+          </div>
+          <div id="newsList" class="news-list"></div>
+        </section>
+
+        <p id="status" class="status"></p>
+      </main>
+    </div>
+
+    <script src="renderer.js"></script>
+  </body>
+</html>

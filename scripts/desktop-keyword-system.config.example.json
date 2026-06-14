@@ -1,0 +1,25 @@
+{
+  "projectName": "ALEO POWER Daily Keyword Hunter",
+  "site": "https://www.heifun6.asia",
+  "runTime": "08:30",
+  "baseOutputDir": "outputs/keyword-desktop",
+  "keywordWorkflowConfig": "scripts/keyword-workflow.config.example.json",
+  "newsFeeds": [
+    "https://www.power-technology.com/feed/",
+    "https://www.energyglobal.com/rss/",
+    "https://www.datacenterdynamics.com/en/rss/"
+  ],
+  "newsKeywords": [
+    "generator",
+    "genset",
+    "backup power",
+    "microgrid",
+    "power project",
+    "data center",
+    "oil and gas",
+    "mining",
+    "factory"
+  ],
+  "topNewKeywords": 25,
+  "topTrendItems": 12
+}

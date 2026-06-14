@@ -1,0 +1,12 @@
+{
+  "name": "aleo-keyword-hunter-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
